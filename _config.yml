@@ -3,7 +3,7 @@ title:              "Grey Hat"
 description:        "The Art of Hacking"
 
 # Google APIs
-google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Your Google Verification - set to 'false' to disable
+google_verify:      # Your Google Verification - set to 'false' to disable
 google_analytics:   UA-XXXXXXX-X # Your Google Analytics code - set to 'false' to disable
 
 # Author Info
