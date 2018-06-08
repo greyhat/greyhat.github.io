@@ -9,7 +9,7 @@ google_analytics:   UA-XXXXXXX-X # Your Google Analytics code - set to 'false' t
 # Author Info
 author_name:        "greyhat"
 author_email:       #
-author_gravatar:    false # Gravatar md5 hash (of email) here for logo - set to 'false' to disable
+author_gravatar:    8c6c103cdd6749798ae544155e6b34e7 # Gravatar md5 hash (of email) here for logo - set to 'false' to disable
 twitter_username:   false # set to 'false' to disable
 github_username:    greyhat # set to 'false' to disable
 
